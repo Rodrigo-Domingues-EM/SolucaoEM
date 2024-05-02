@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXYK3d2hHKkAqXNOdNr2qL2OJAa+PmLwM+P6xvId6Op2uMfW+2HfuUebLAz8EpNyM5OqADVctxdV8YtHRY+uYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.REPOSITORY\\EM.REPOSITORY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.0.0\\firebirdsql.data.firebirdclient.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
