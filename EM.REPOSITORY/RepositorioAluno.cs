@@ -93,9 +93,12 @@ namespace EM.REPOSITORY
 					aluno.Nome = reader["nome"].ToString();
 					aluno.CPF = reader["CPF"].ToString();
 					aluno.DataNascimento = Convert.ToDateTime(reader["datanascimento"]);
+				if (!reader.IsDBNull(reader.GetOrdinal("SEXO")))
+				{
 					aluno.Sexo = (SexoEnum)reader.GetInt32(reader.GetOrdinal("SEXO"));
-					// Preencher as informações da cidade associada ao aluno
-					aluno.Cidade = new CidadeModel();
+				}
+				// Preencher as informações da cidade associada ao aluno
+				aluno.Cidade = new CidadeModel();
 					aluno.Cidade.Nome = reader["NomeCidade"].ToString();
 					aluno.Cidade.UF = reader["UFCidade"].ToString();
 					alunos.Add(aluno);

@@ -13,7 +13,7 @@ namespace EM.DOMAIN
 	{
 		public long Matricula { get; set; }
 
-		[Required]
+		[Required(ErrorMessage = "preencha este campo")]
 		[StringLength(100, ErrorMessage = "Nome Deve ter no máximo 100 caracteres!")]
 		[MinLength(3, ErrorMessage = "Nome Deve ter no mínimo 3 caracteres!")]
 		public string Nome { get; set; }
