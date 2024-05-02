@@ -1,4 +1,5 @@
 using EM.DOMAIN;
+using EM.DOMAIN.Servicos;
 using EM.REPOSITORY;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddTransient<IRepositorioAluno<Aluno>, RepositorioAluno>();
 builder.Services.AddTransient<IRepositorioCidade<CidadeModel>, RepositorioCidade>();
+builder.Services.AddTransient<GeradorRelatorioAluno>();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

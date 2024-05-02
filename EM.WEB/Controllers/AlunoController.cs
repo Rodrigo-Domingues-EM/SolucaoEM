@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using EM.DOMAIN;
 using EM.REPOSITORY;
 using System.Reflection;
+using EM.DOMAIN.Servicos;
 
 
 namespace EM.WEB.Controllers
@@ -12,11 +13,28 @@ namespace EM.WEB.Controllers
 	{
 		private readonly IRepositorioAluno<Aluno> repositorioAluno;
 		private readonly IRepositorioCidade<CidadeModel> repositorioCidade;
+		private readonly GeradorRelatorioAluno geradorRelatorio;
+		private readonly IWebHostEnvironment _env;
 
-		public AlunoController(IRepositorioAluno<Aluno> repositorioAluno, IRepositorioCidade<CidadeModel> repositorioCidade)
+		public AlunoController(IRepositorioAluno<Aluno> repositorioAluno, IRepositorioCidade<CidadeModel> repositorioCidade, GeradorRelatorioAluno geradorRelatorio, IWebHostEnvironment env)
 		{
 			this.repositorioAluno = repositorioAluno;
 			this.repositorioCidade = repositorioCidade;
+			this.geradorRelatorio = geradorRelatorio;
+			_env = env;
+		}
+
+		// Outras ações...
+
+		public IActionResult GerarRelatorio()
+		{
+			// Obtenha a lista de alunos. Você pode obter isso do seu repositório.
+			List<Aluno> alunos = repositorioAluno.GetAll().ToList();
+
+			geradorRelatorio.GerarRelatorio(alunos);
+
+			// Redirecione para a página de sucesso ou exiba uma mensagem de sucesso.
+			return RedirectToAction("TabelaAluno");
 		}
 
 		public IActionResult TabelaAluno()
@@ -41,10 +59,8 @@ namespace EM.WEB.Controllers
 				return View(aluno);
 			}
 
-
 			ViewBag.IsEdicao = false;
 			return View(new Aluno());
-
 		}
 
 
@@ -68,6 +84,7 @@ namespace EM.WEB.Controllers
 			ViewBag.Cidades = repositorioCidade.GetAll().ToList();
 			return View(aluno);
 		}
+
 
 
 

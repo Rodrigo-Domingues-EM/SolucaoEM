@@ -38,7 +38,7 @@ namespace EM.WEB.Controllers
 
 
 		[HttpPost]
-		public IActionResult CadastreCidade(CidadeModel cidade)
+		public IActionResult CadastroCidade(CidadeModel cidade)
 		{
 			if (ModelState.IsValid)
 			{
