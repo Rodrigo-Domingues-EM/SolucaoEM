@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EM.DOMAIN.Validations;
+using EM.DOMAIN.Servicos.Validations;
 
 
 namespace EM.DOMAIN

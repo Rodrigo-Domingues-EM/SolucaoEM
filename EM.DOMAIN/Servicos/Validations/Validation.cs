@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EM.DOMAIN.Validations
+namespace EM.DOMAIN.Servicos.Validations
 {
     public interface Validation
     {
@@ -18,11 +18,11 @@ namespace EM.DOMAIN.Validations
             int resto;
             cpf = cpf.Trim();
             cpf = cpf.Replace(".", "").Replace("-", "");
-            if (cpf.Length != 11)
+            // Adicionando a verificação para CPFs com todos os dígitos iguais
+            if (cpf.Length != 11 || cpf.Distinct().Count() == 1)
                 return false;
             tempCpf = cpf.Substring(0, 9);
             soma = 0;
-
             for (int i = 0; i < 9; i++)
                 soma += int.Parse(tempCpf[i].ToString()) * multiplicador1[i];
             resto = soma % 11;

@@ -7,14 +7,18 @@
 	ViewData["Title"] = "Cadastro do Aluno";
 }
 
-<div>
+
 
 	<div class="row">
 		<h1 class="col">Tabela de Alunos</h1>
+	<div class="col-2">
+		<a class="btn btn-primary" asp-area="" asp-controller="Aluno" asp-action="GerarRelatorio">Gerar Relatório</a>
+	</div>
 		<a class="btn btn-success col align-self-center" style="max-width:180px; margin-right:20px;" asp-area="" asp-controller="Aluno" asp-action="CadastroAluno" asp-route-isEdicao="false"><img src="~/images/add.svg"> Adicionar  aluno</a>
 	</div>
 	<hr>
 
+	<div class="d-flex row-2">
 
 	<div class="d-flex align-items-center">
 		<div class="form-check-inline">
@@ -29,6 +33,7 @@
 			<label class="form-check-label" for="searchNome">Nome</label>
 		</div>
 	</div>
+
 </div>
 <div>
 	<form class="d-flex col-6" role="search" action="/Aluno/Search" method="post">
@@ -37,10 +42,7 @@
 		<button class="btn btn-success ml-2" type="submit">Buscar</button>
 	</form>
 </div>
-
 	<p></p>
-
-<a class="btn btn-primary" asp-area="" asp-controller="Aluno" asp-action="GerarRelatorio">Gerar Relatório</a>
 
 	<table width="1px" class="table table-bordered table-striped align-items-center bg-gray-100">
 		<thead>
