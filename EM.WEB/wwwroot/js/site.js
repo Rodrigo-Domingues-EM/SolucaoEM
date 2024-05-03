@@ -11,8 +11,9 @@ function mascara(i) {
     i.setAttribute("maxlength", "14");
     if (v.length == 3 || v.length == 7) i.value += ".";
     if (v.length == 11) i.value += "-";
-
 }
+
+
 function handleInput(e) {
     var ss = e.target.selectionStart;
     var se = e.target.selectionEnd;
@@ -22,9 +23,12 @@ function handleInput(e) {
 }
 
 
+
 function updateSearchType() {
     var selectedOption = document.querySelector('input[name="searchOptions"]:checked').value;
     document.getElementById('searchType').value = selectedOption;
 }
+
+
 
 

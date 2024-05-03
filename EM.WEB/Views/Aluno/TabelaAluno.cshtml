@@ -11,9 +11,6 @@
 
 	<div class="row">
 		<h1 class="col">Tabela de Alunos</h1>
-	<div class="col-2">
-		<a class="btn btn-primary" asp-area="" asp-controller="Aluno" asp-action="GerarRelatorio">Gerar Relatório</a>
-	</div>
 		<a class="btn btn-success col align-self-center" style="max-width:180px; margin-right:20px;" asp-area="" asp-controller="Aluno" asp-action="CadastroAluno" asp-route-isEdicao="false"><img src="~/images/add.svg"> Adicionar  aluno</a>
 	</div>
 	<hr>
@@ -33,16 +30,19 @@
 			<label class="form-check-label" for="searchNome">Nome</label>
 		</div>
 	</div>
-
 </div>
-<div>
+
+<div class="row">
 	<form class="d-flex col-6" role="search" action="/Aluno/Search" method="post">
-		<input class="form-control me-2" type="search" placeholder="Matrícula ou nome do aluno..." aria-label="Search" name="searchTerm">
-		<input type="hidden" name="searchType" id="searchType">
-		<button class="btn btn-success ml-2" type="submit">Buscar</button>
+		<input class="form-control col me-2" type="search" placeholder="Matrícula ou nome do aluno..." aria-label="Search" name="searchTerm">
+		<input class="col" type="hidden" name="searchType" id="searchType">
+		<button class="btn btn-success md-1" type="submit">Buscar</button>
 	</form>
+	<a type="button" class="btn btn-primary ms-auto" style="max-width:230px; margin-right:20px;" asp-area="" asp-controller="Aluno" asp-action="GerarRelatorio" target="_blank">Relatório de todos os alunos</a>
 </div>
 	<p></p>
+
+
 
 	<table width="1px" class="table table-bordered table-striped align-items-center bg-gray-100">
 		<thead>
@@ -101,4 +101,3 @@
 	</table>
 
 
-</div>

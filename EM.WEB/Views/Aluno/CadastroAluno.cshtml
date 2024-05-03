@@ -48,7 +48,7 @@
 
 			<div class="col-md-5">
 				<label for="inputCidade" class="form-label">Cidade:</label>
-				<select id="Cidade.Id_cidade" name="Cidade.ID_cidade" class="form-select" value="@Model.Cidade">
+				<select id="Cidade.Id_cidade" name="Cidade.ID_cidade" class="form-select" value="@Model.Cidade" required>
 					<option selected value="">Selecione</option>
 					@foreach (var cidade in ViewBag.Cidades)
 					{

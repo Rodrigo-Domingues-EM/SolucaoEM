@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EM.REPOSITORY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d458ef6e5502dc59f0aa717fad8ed434b21bb2e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025d39ea535a1a4e69a45179189b5c06706c3f24")]
 [assembly: System.Reflection.AssemblyProductAttribute("EM.REPOSITORY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EM.REPOSITORY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

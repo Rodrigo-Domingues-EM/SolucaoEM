@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2BbMLpRuDIlzjXZLfynlYJ8NpbeeQuVkNnh+uzHM1zKoqC2mJw1CMba/RHBuk88zlnXf3MrGAv6PvySj6lr2ow==",
+  "dgSpecHash": "uepVXkv84L1CPdMShxHrFoV3TN9zi5SVwuX21w9GTtDu5ndcgAgr3Fi3rxRmYj4PftevhUpV7DYZkuzkYwgVQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj",
+  "projectFilePath": "C:\\Users\\Escolar Manager\\Source\\Repos\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Escolar Manager\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\Escolar Manager\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.0.0\\firebirdsql.data.firebirdclient.10.0.0.nupkg.sha512",

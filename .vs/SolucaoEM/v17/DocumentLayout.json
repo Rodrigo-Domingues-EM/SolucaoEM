@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\",
+  "WorkspaceRootPath": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.web\\views\\aluno\\tabelaaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|c:\\users\\escolar manager\\source\\repos\\solucaoem\\em.web\\views\\aluno\\tabelaaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\views\\aluno\\tabelaaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.domain\\servicos\\geradorrelatorioalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\geradorrelatorioalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.domain\\servicos\\validations\\cpfvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\validations\\cpfvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26FB455F-97E5-4E3F-9016-801F78C0455E}|EM.REPOSITORY\\EM.REPOSITORY.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.repository\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26FB455F-97E5-4E3F-9016-801F78C0455E}|EM.REPOSITORY\\EM.REPOSITORY.csproj|solutionrelative:em.repository\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|c:\\users\\escolar manager\\downloads\\solucaoem\\em.domain\\servicos\\validations\\datanascimentovalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\validations\\datanascimentovalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.domain\\cidademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\cidademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\cidademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.web\\views\\aluno\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.web\\views\\aluno\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\views\\aluno\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.web\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.web\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.domain\\em.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{26FB455F-97E5-4E3F-9016-801F78C0455E}|EM.REPOSITORY\\EM.REPOSITORY.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.repository\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FB455F-97E5-4E3F-9016-801F78C0455E}|EM.REPOSITORY\\EM.REPOSITORY.csproj|solutionrelative:em.repository\\repositorioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\servicos\\validations\\cpfvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\validations\\cpfvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\servicos\\geradorrelatorioalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\geradorrelatorioalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\servicos\\validations\\datanascimentovalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\validations\\datanascimentovalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.web\\views\\cidade\\cadastrocidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\views\\cidade\\cadastrocidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\em.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\em.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|c:\\users\\escolar manager\\downloads\\solucaoem\\em.domain\\servicos\\validations\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\validations\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.web\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.web\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\em.web\\views\\cidade\\cadastrocidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\views\\cidade\\cadastrocidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.domain\\servicos\\validations\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE5E8B-F5DA-46F8-B42B-58AA60B6E214}|EM.DOMAIN\\EM.DOMAIN.csproj|solutionrelative:em.domain\\servicos\\validations\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\em.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFBAB3-06C2-4BE4-A48C-7D58A050503E}|EM.WEB\\EM.WEB.csproj|solutionrelative:em.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,115 +94,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataNascimentoValidationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
-              "RelativeDocumentMoniker": "EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
-              "RelativeToolTip": "EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:55:46.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeradorRelatorioAlunos.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
-              "RelativeDocumentMoniker": "EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
-              "RelativeToolTip": "EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T16:24:20.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CidadeModel.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\CidadeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\CidadeModel.cs",
               "RelativeDocumentMoniker": "EM.DOMAIN\\CidadeModel.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\CidadeModel.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\CidadeModel.cs",
               "RelativeToolTip": "EM.DOMAIN\\CidadeModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:50:47.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T14:50:47.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "CadastroAluno.cshtml",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Views\\Aluno\\CadastroAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Views\\Aluno\\CadastroAluno.cshtml",
               "RelativeDocumentMoniker": "EM.WEB\\Views\\Aluno\\CadastroAluno.cshtml",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Views\\Aluno\\CadastroAluno.cshtml",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Views\\Aluno\\CadastroAluno.cshtml",
               "RelativeToolTip": "EM.WEB\\Views\\Aluno\\CadastroAluno.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAADgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T16:11:39.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T16:11:39.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Aluno.cs",
               "RelativeDocumentMoniker": "EM.DOMAIN\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Aluno.cs",
               "RelativeToolTip": "EM.DOMAIN\\Aluno.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:10:43.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Controllers\\AlunoController.cs",
-              "RelativeDocumentMoniker": "EM.WEB\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Controllers\\AlunoController.cs",
-              "RelativeToolTip": "EM.WEB\\Controllers\\AlunoController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAYwFUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:45:43.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:10:43.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RepositorioAluno.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.REPOSITORY\\RepositorioAluno.cs",
-              "RelativeDocumentMoniker": "EM.REPOSITORY\\RepositorioAluno.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.REPOSITORY\\RepositorioAluno.cs",
-              "RelativeToolTip": "EM.REPOSITORY\\RepositorioAluno.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwGgAAAAFAAAA",
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "EM.WEB\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "EM.WEB\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwFUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T23:27:40.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T14:45:43.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "RepositorioAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.REPOSITORY\\RepositorioAluno.cs",
+              "RelativeDocumentMoniker": "EM.REPOSITORY\\RepositorioAluno.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.REPOSITORY\\RepositorioAluno.cs",
+              "RelativeToolTip": "EM.REPOSITORY\\RepositorioAluno.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:27:40.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CpfValidationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\CpfValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\CpfValidationAttribute.cs",
               "RelativeDocumentMoniker": "EM.DOMAIN\\Servicos\\Validations\\CpfValidationAttribute.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\CpfValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\CpfValidationAttribute.cs",
               "RelativeToolTip": "EM.DOMAIN\\Servicos\\Validations\\CpfValidationAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:53:27.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:53:27.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TabelaAluno.cshtml",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Views\\Aluno\\TabelaAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Views\\Aluno\\TabelaAluno.cshtml",
               "RelativeDocumentMoniker": "EM.WEB\\Views\\Aluno\\TabelaAluno.cshtml",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Views\\Aluno\\TabelaAluno.cshtml",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Views\\Aluno\\TabelaAluno.cshtml",
               "RelativeToolTip": "EM.WEB\\Views\\Aluno\\TabelaAluno.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -211,11 +179,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
+              "Title": "GeradorRelatorioAlunos.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
+              "RelativeDocumentMoniker": "EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
+              "RelativeToolTip": "EM.DOMAIN\\Servicos\\GeradorRelatorioAlunos.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:24:20.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataNascimentoValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
+              "RelativeDocumentMoniker": "EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
+              "RelativeToolTip": "EM.DOMAIN\\Servicos\\Validations\\DataNascimentoValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:55:46.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CadastroCidade.cshtml",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Views\\Cidade\\CadastroCidade.cshtml",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Views\\Cidade\\CadastroCidade.cshtml",
               "RelativeDocumentMoniker": "EM.WEB\\Views\\Cidade\\CadastroCidade.cshtml",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Views\\Cidade\\CadastroCidade.cshtml",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Views\\Cidade\\CadastroCidade.cshtml",
               "RelativeToolTip": "EM.WEB\\Views\\Cidade\\CadastroCidade.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -223,24 +215,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "EM.DOMAIN.csproj",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj",
               "RelativeDocumentMoniker": "EM.DOMAIN\\EM.DOMAIN.csproj",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj",
               "RelativeToolTip": "EM.DOMAIN\\EM.DOMAIN.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-02T13:40:08.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T13:40:08.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "CidadeController.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Controllers\\CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Controllers\\CidadeController.cs",
               "RelativeDocumentMoniker": "EM.WEB\\Controllers\\CidadeController.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Controllers\\CidadeController.cs",
               "RelativeToolTip": "EM.WEB\\Controllers\\CidadeController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwCgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,24 +239,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Validation.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\Validation.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\Validation.cs",
               "RelativeDocumentMoniker": "EM.DOMAIN\\Servicos\\Validations\\Validation.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\Validation.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.DOMAIN\\Servicos\\Validations\\Validation.cs",
               "RelativeToolTip": "EM.DOMAIN\\Servicos\\Validations\\Validation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:52:42.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:52:42.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Program.cs",
               "RelativeDocumentMoniker": "EM.WEB\\Program.cs",
-              "ToolTip": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Escolar Manager\\source\\repos\\SolucaoEM\\EM.WEB\\Program.cs",
               "RelativeToolTip": "EM.WEB\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

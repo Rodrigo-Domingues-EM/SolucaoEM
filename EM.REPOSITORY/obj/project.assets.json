@@ -117,11 +117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.REPOSITORY\\EM.REPOSITORY.csproj",
+      "projectUniqueName": "C:\\Users\\Escolar Manager\\Source\\Repos\\SolucaoEM\\EM.REPOSITORY\\EM.REPOSITORY.csproj",
       "projectName": "EM.REPOSITORY",
-      "projectPath": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.REPOSITORY\\EM.REPOSITORY.csproj",
+      "projectPath": "C:\\Users\\Escolar Manager\\Source\\Repos\\SolucaoEM\\EM.REPOSITORY\\EM.REPOSITORY.csproj",
       "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.REPOSITORY\\obj\\",
+      "outputPath": "C:\\Users\\Escolar Manager\\Source\\Repos\\SolucaoEM\\EM.REPOSITORY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Escolar Manager\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,8 +138,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj": {
-              "projectPath": "C:\\Users\\Escolar Manager\\Downloads\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj"
+            "C:\\Users\\Escolar Manager\\Source\\Repos\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj": {
+              "projectPath": "C:\\Users\\Escolar Manager\\Source\\Repos\\SolucaoEM\\EM.DOMAIN\\EM.DOMAIN.csproj"
             }
           }
         }

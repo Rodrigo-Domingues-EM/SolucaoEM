@@ -26,8 +26,5 @@ namespace EM.DOMAIN
 		public string? CPF { get; set; }
 		public CidadeModel? Cidade { get; set; }
 
-
-
-
 	}
 }
